@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Vigenere {
     public static String encryptVigenere(String message, String key) {
+        
         return message;
         // REPLACE THIS WITH YOUR CODE
     }
