@@ -1,4 +1,4 @@
-//Jennifer O'Byrne Cryptophraphy code
+//Jennifer O'Byrne Cryptophraphy code - vigenere
 import java.util.Scanner;
 
 public class Vigenere {
